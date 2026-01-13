@@ -1,0 +1,16 @@
+# Data Processing and Analysis Pipeline Requirements
+# Python 3.7+ required
+
+# Core data manipulation
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Note: Standard library modules used (no additional requirements):
+# - argparse
+# - sys
+# - logging
+# - pathlib
+# - os
